@@ -1,4 +1,6 @@
 .translator-simple
 .translator-failed
+.document-intellingence
+.form-recognizer
 .env
 .venv
